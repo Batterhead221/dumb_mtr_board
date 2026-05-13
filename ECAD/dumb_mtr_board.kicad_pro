@@ -551,7 +551,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../dumb_mtr_board/",
+      "plot": "../Outputs/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -675,7 +675,7 @@
         "uuid": "c8bde284-65f1-49cf-940f-2ad428ad946c"
       }
     ],
-    "used_designators": "F1,#FLG1-4,J1-3,M1,U1-5,C1-19,SW1-5,Q1-2,RV1,L1,D1-7,#PWR1-22,H1-4,R1-15,TP1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
