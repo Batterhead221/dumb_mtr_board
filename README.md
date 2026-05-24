@@ -39,25 +39,6 @@ A compact standalone stepper motor control board built around a TMC stepper driv
 
 This board is designed as a simple hands-on motor controller with local direction controls, speed adjustment, motor output, status LEDs, and a selectable input power source.
 
-## Project Status
-
-Hardware revision:
-
-```text
-
-Standalone stepper motor controller board with local forward/reverse jog buttons, speed adjustment, status LEDs, and a TMC stepper driver module.
-
-DUMB_MTR_BOARD is a compact hands-on motor control board. Unlike BRAIN_BOARD + DIRTY_MOTOR_BOARD, this board is meant to run a stepper motor locally without needing the main controller system attached.
-
-## Project Status
-
-Hardware revision:
-
-```text
-DUMB_MTR_BOARD_V1
-REV A
-```
-
 ## System Role
 
 ```text
