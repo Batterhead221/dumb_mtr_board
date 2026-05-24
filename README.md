@@ -44,17 +44,6 @@ This board is designed as a simple hands-on motor controller with local directio
 Hardware revision:
 
 ```text
-DUMB_MTR_BOARD_V1
-REV A
-# DUMB_MTR_BOARD
-
-<p align="center">
-  <img src="Outputs/IMG/3D-T.png" alt="DUMB_MTR_BOARD top 3D board render" width="700">
-</p>
-
-<p align="center">
-  <img src="Outputs/IMG/3D-B.png" alt="DUMB_MTR_BOARD bottom 3D board render" width="700">
-</p>
 
 Standalone stepper motor controller board with local forward/reverse jog buttons, speed adjustment, status LEDs, and a TMC stepper driver module.
 
