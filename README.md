@@ -1,4 +1,15 @@
-# dumb_mtr_board
+# DUMB_MTR_BOARD
+
+<p align="center">
+  <img src="Outputs/IMG/3D-T.png" alt="DUMB_MTR_BOARD top 3D board render" width="700">
+</p>
+
+<p align="center">
+  <img src="Outputs/IMG/3D-B.png" alt="DUMB_MTR_BOARD bottom 3D board render" width="700">
+</p>
+
+Standalone stepper motor controller board with local forward/reverse jog buttons, speed adjustment, status LEDs, and a TMC stepper driver module.
+
 Motor controller board
 
 DUMB_MTR Board provides a small standalone interface for driving a stepper motor.
@@ -226,4 +237,7 @@ Outputs/
 
 DUMB_MTR_BOARD handles motor power. Verify input polarity, motor wiring, driver orientation, current settings, and thermal behavior before running the motor under load.
 
-Designed & engineered by Brandon Shelly.
+Designed & engineered by Brandon Shelly
+
+
+
